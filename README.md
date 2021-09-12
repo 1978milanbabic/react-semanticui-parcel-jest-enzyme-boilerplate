@@ -1,5 +1,12 @@
 # ReactJS with ParcelJS Boilerplate
 
+- React.js
+- Semantic UI React
+- Babel
+- Parcel
+- eslint
+- Jest
+- Enzime
 
 ## LICENSE
 
